@@ -167,4 +167,3 @@ This project analyzes Superstore Sales data across various regions in Canada, fo
 ## Tools Used
 
 - Microsoft Excel — formatting, pivot tables, conditional formatting, password protection
-- Python / PptxGenJS — presentation generation
