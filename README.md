@@ -167,3 +167,5 @@ This project analyzes Superstore Sales data across various regions in Canada, fo
 ## Tools Used
 
 - Microsoft Excel — formatting, pivot tables, conditional formatting, password protection
+
+<img width="1166" height="657" alt="image" src="https://github.com/user-attachments/assets/3fd98943-f466-4557-a763-a6da442210c6" />
