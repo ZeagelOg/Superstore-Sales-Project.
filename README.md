@@ -47,7 +47,6 @@ This project analyzes Superstore Sales data across various regions in Canada, fo
 |------|-------------|
 | `superstore_sales (1).csv` | Raw dataset |
 | `superstore_sales_solution.xlsx` | Excel solution workbook (fully formatted) |
-| `Superstore_Solution_Walkthrough.pptx` | Presentation deck (10 slides) |
 | `README.md` | This file |
 
 ---
