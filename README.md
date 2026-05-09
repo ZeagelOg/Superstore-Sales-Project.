@@ -13,6 +13,7 @@
 - [Activity 2 — Pivot Table Profitability Analysis](#activity-2--pivot-table-profitability-analysis)
 - [Conclusions & Recommendations](#conclusions--recommendations)
 - [Tools Used](#tools-used)
+- [Presentation Slides](#Presentation-Slides)
 
 ---
 
@@ -168,4 +169,35 @@ This project analyzes Superstore Sales data across various regions in Canada, fo
 
 - Microsoft Excel — formatting, pivot tables, conditional formatting, password protection
 
-<img width="1166" height="657" alt="image" src="https://github.com/user-attachments/assets/3fd98943-f466-4557-a763-a6da442210c6" />
+## Presentation Slides
+Slide 1
+<img width="1296" height="733" alt="image" src="https://github.com/user-attachments/assets/d0ea0148-7af7-4793-82b2-ac9778df28b2" />
+
+Slide 2
+<img width="1292" height="737" alt="image" src="https://github.com/user-attachments/assets/a31ed392-e155-44fc-8f24-976b503f9266" />
+
+Slide 3
+<img width="1300" height="743" alt="image" src="https://github.com/user-attachments/assets/eac57eea-b42f-4fc7-aeb3-63203a9215d2" />
+
+Slide 4
+<img width="1304" height="735" alt="image" src="https://github.com/user-attachments/assets/9c224ba6-2e15-4c7b-8eda-1fb5181ca1c4" />
+
+Slide 5
+<img width="1300" height="742" alt="image" src="https://github.com/user-attachments/assets/b25feca9-a3da-41ca-b81c-7a41a22445c7" />
+
+Slide 6
+<img width="1282" height="729" alt="image" src="https://github.com/user-attachments/assets/bcad1718-13db-4542-bab5-87fc38c9bc13" />
+
+Slide 7
+<img width="1283" height="727" alt="image" src="https://github.com/user-attachments/assets/b7a9f87d-f8bf-4ec0-b719-f4297d576ba7" />
+
+Slide 8
+<img width="1289" height="734" alt="image" src="https://github.com/user-attachments/assets/d08fe637-3702-4a0f-99b3-333cdf3da1b0" />
+
+Slide 9
+<img width="1279" height="731" alt="image" src="https://github.com/user-attachments/assets/03502586-5a57-47f5-85dd-98463858d504" />
+
+Slide 10
+<img width="1291" height="737" alt="image" src="https://github.com/user-attachments/assets/b642ee01-8038-493d-98b2-4a2a5efb73f4" />
+
+
